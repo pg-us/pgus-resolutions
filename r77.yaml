@@ -1,0 +1,69 @@
+title: Membership Classification
+resolution_date: 2016-12-09T00:00:00
+action_date: 2016-12-09T00:00:00
+action: Approved
+resolution: |
+    WHEREAS:
+    
+      The corporation wants to clearly define the membership types that have been
+      created to date.
+    
+      Also for ease of reference to note other non-profit organizations and whether
+      their membership classes are described in their bylaws.
+    
+      - Apache Software Foundation 501(c)(3) - No
+      - Django Software Foundation 501(c)(3) - Yes
+      - Open Source Geospacial Foundation 501(c)(4) - No
+      - Open Source Initiative 501(c)(3) - No members
+      - FreeBSD Foundation 501(c)(3) - No members
+      - Free Software Foundation 501(c)(3) - Cannot find bylaws
+      - Software In the Public Interest 501(c)(3) - Yes
+      - The Gentoo Foundation 501(c)(6) - Yes
+      - The Linux Foundation 501(c)(6) - Yes
+      - The Linux Kernel Organization 501(c)(3) - Cannot find bylaws
+      - The NetBSD Foundation 501(c)(3) - Yes (1 type)
+      - The Perl Foundation 501(c)(3) - No members
+      - The Python Software Foundation 501(c)(3) - Yes
+    
+    THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
+    
+    The following four types of membership classes to date are:
+    
+            There shall be four (4) classes of membership in this corporation: (i)
+            Board; (ii) Lifetime; (iii) Professional; and (iv) Student. As used
+            herein, the term “member” may be used to refer generically to a Board,
+            Lifetime, Professional, or a Student Member.
+    
+            The following shall be the requirements for membership in each
+            membership class.
+    
+            (a) Board Members. Board Members shall be individuals that are currently
+            serving on the Board of Directors. A Board Member shall cease to be a
+            member in the event of its resignation, expulsion, or end of the board
+            term from this corporation.
+    
+            (b) Lifetime Members. Lifetime Member shall be individuals that have
+            served at least one (1) full term on the Board of Directors. A Lifetime
+            Member shall cease to be a member in the event of its resignation or
+            expulsion from this corporation.
+    
+            (c) Professional Members. Professional Members shall be individuals that
+            engage in or support the production, manufacture, use, sale, or
+            standardization of PostgreSQL. A Professional Member shall pay the
+            annual membership dues identified on Schedule A to these Bylaws (the
+            “Membership Dues Schedule”). A Professional Member shall cease to be a
+            member in the event of its resignation or expulsion from this
+            corporation.
+    
+            (d) Student Members. Student Members shall be individuals that attend a
+            school, college or university. A Student Member shall pay the annual
+            membership dues identified on Schedule A to these Bylaws (the
+            “Membership Dues Schedule”). A Student Member shall cease to be a member
+            in the event of its resignation or expulsion from this corporation.
+vote_record: |
+    MW: Aye (motions)
+    KP: Yay
+    RT: Yay (seconds)
+    JM: Yay
+    JSK: Yay proxy JM
+    MB: Yay

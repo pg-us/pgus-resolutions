@@ -1,0 +1,22 @@
+title: User Group committee of the board
+resolution_date: 2008-09-18T00:00:00
+action_date: 2008-09-19T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+     1. The mission of the corporation states that the corporation shall:
+    
+     Establish and support user groups in all major regions of the US
+     (Northwest, Southwest, Midwest, South, Northeast)
+    
+    The United States PostgreSQL Association Resolves that
+    
+     1. A PostgreSQL User Group Committee shall be formed
+     2. The committee shall be a committee of the board
+     3. Decisions by the committee shall be reached via a simple majority
+    vote.
+vote_record: |
+    JD - Proposed (via email 09/18/2008): Yes
+    BM - Yes (via email 09/18/2008)
+    MB - Yes (via email 09/19/2008)

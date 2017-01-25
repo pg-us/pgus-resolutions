@@ -1,0 +1,72 @@
+title: Ratifying membership classes
+resolution_date: 2016-12-09T00:00:00
+action_date: 2016-12-09T00:00:00
+action: Pending
+resolution: |
+    WHEREAS:
+    
+      The corporation bylaws need to be updated to reflect resolutions that have
+      added new membership classes.
+    
+    THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
+    
+      The definition of "Membership" in Article II will be updated to read
+      (section numbers are subject to change with final legal review):
+    
+    	Section 1. Membership Classes.
+    
+        	There shall be four (4) classes of membership in this corporation: (i)
+        	Board; (ii) Lifetime; (iii) Professional; and (iv) Student. As used
+        	herein, the term “member” may be used to refer generically to a Board,
+        	Lifetime, Professional, or a Student Member.
+    
+    	Section 2. Membership Qualifications.
+    
+        	The following shall be the requirements for membership in each
+        	membership class.
+    
+        	(a) Board Members. Board Members shall be individuals that are currently
+        	serving on the Board of Directors. A Board Member shall cease to be a
+        	member in the event of its resignation, expulsion, or end of the board
+        	term from this corporation.
+    
+        	(b) Lifetime Members. Lifetime Member shall be individuals that have
+        	served at least one (1) full term on the Board of Directors. A Lifetime
+        	Member shall cease to be a member in the event of its resignation or
+        	expulsion from this corporation.
+    
+        	(c) Professional Members. Professional Members shall be individuals that
+        	engage in or support the production, manufacture, use, sale, or
+        	standardization of PostgreSQL. A Professional Member shall pay the
+        	annual membership dues identified on Schedule A to these Bylaws (the
+        	“Membership Dues Schedule”). A Professional Member shall cease to be a
+        	member in the event of its resignation or expulsion from this
+        	corporation.
+    
+        	(d) Student Members. Student Members shall be individuals that attend a
+        	school, college or university. A Student Member shall pay the annual
+        	membership dues identified on Schedule A to these Bylaws (the
+        	“Membership Dues Schedule”). A Student Member shall cease to be a member
+        	in the event of its resignation or expulsion from this corporation.
+    
+      Schedule A will be added to the bylaws to describe membership dues:
+    
+      Schedule A
+    
+    	Membership Dues Schedule
+    
+      	Effective April 29, 2008
+    
+      	Members - Annual Membership Dues
+    
+      	Professional $25.00
+    
+      	Student $10.00
+vote_record: |
+    MW: Yay (motion)
+    JD: Nay
+    RT: Nay
+    JM: Abstain (proxy, JSK)
+    KP: Nay
+    MB: Nay
+    JSK: Nay

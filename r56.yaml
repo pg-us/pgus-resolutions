@@ -1,0 +1,39 @@
+title: Governance for Associated Projects
+resolution_date: 2016-10-27T00:00:00
+action_date: 2016-10-27T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+    1. The corporation wishes to insure proper governance for Associated Projects
+    
+    2. As the corporation may sometimes be requested to settle Associated Project disputes, an operating governance document is required
+    
+    3. As the corporation will be managing the fiscal risk of Associated Projects, a budget document will be maintained and inspectable by the corporation Directors
+    
+    4. The corporation Treasurer will maintain independent fiscal oversight of Associated Projects
+    
+    THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT
+    
+    1. An associated project shall be required to have a publicly available governance document and fiscal budget
+    
+    2. For the purpose of this resolution, Publicly available is defined as published via public electronic means. This includes but is not limited to a website, social media page, or other freely available resource for the general public.
+    
+    3. The operating governance document is required to have the minimum following information:
+    
+            1. How the Associated Project settles disputes
+    
+            2. The general governance of the project such as core committee, BDFL etc..
+    
+            3. Voting mechanisms (if any)
+    
+    4. At the request of the Treasurer a public budget will be made available.
+    
+    5. Associated Projects at an Officer’s request will provide a project status update
+vote_record: |
+    JD: Yay
+    KP: Yay
+    RT: Yay (proxy)
+    JSK: Yay
+    MB: Yay (proxy)
+    MW: Yay

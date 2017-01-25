@@ -1,0 +1,22 @@
+title: Conference Membership Resultion
+resolution_date: 2015-03-12T00:00:00
+action_date: 2015-03-13T00:00:00
+action: Pending
+resolution: |
+    WHEREAS:
+    
+    1. The corporation wishes to increase the benefits of attending PgConf US
+    
+    2. The corporation wishes to increase its number of voting members
+    
+    United States PostgreSQL resolves that
+    
+    1. All paid attendees of PgConf US and any future conference organized by
+       the corporation will receive a United States PostgreSQL Professional
+       membership and all benefits thereof at no additional cost.
+vote_record: |
+    JSK: +1 (via email 2015-03-12)
+    MAB: +1 (via email 2015-03-12)
+    KP: -1 (via email 2015-03-12)
+    JD: -1 (via email 2015-03-12)
+    RT: -1 (via email 2015-03-13)

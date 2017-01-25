@@ -1,0 +1,108 @@
+title: Associated Project Framework
+resolution_date: 2016-08-29T00:00:00
+action_date:
+action: Pending
+resolution: |
+    WHEREAS
+    
+    1. The corporation wishes to increase the services it provides to PostgreSQL
+    based Free and Open Source Projects
+    
+    THE UNITED STATES POSTGRESQL BOARD RESOLVES THAT
+    
+    1. The following Associated Project Framework shall be created:
+    
+    Introduction
+    
+    United States PostgreSQL. ('PgUS') is an umbrella organization which provides legal and formal services, including the ability to manage legal property, to various projects and organizations ('Associated Projects', or simply 'Projects') which form part of the wider community working on free software and related activities ('the Community').
+    
+    PgUS takes the view that the political and technical decision making for a Project is a matter for the people who participate in it. Accordingly, PgUS does not normally control or manage Projects.
+    
+    Property
+    
+    One of PgUS's main functions is to receive and hold property, including money (donations), hardware, intellectual property and other assets, which are intended for the benefit of free software or related activities and may be earmarked for a particular Project.
+    
+    Such assets are held in trust by PgUS. They will be used and managed according to agreement(s) between PgUS and the relevant Project, for the benefit of the Community. The basis of the trust is this Framework, PgUS's Position and Promises on Intellectual Property, and those agreement(s).
+    
+    1. Money PgUS will, when requested by a Project, accept money to be held in trust for purposes related to that Project. Such money will be spent according to the instructions of (and PgUS's agreement with) the Project, provided that these instructions are consistent with PgUS's goals and legal obligations.
+    2. Intellectual Property PgUS can on request hold intellectual property in trust for purposes relating to a Project. Such Intellectual Property Rights (IPR) will be managed according to the instructions of (and PgUS's agreement with) the Project, provided that these instructions are consistent with PgUS's Position and Promises about Intellectual Property and PgUS's goals and legal obligations.
+    3. Other Property If PgUS accepts other property in trust for purposes relating to a Project, the property will be managed according to PgUS's agreement with the Project, provided that this is for the benefit of that Project and the Community and consistent with PgUS's goals, policies, promises and legal obligations.
+    
+    Legal advice and representation
+    
+    PgUS and its lawyers may make their services available to Projects, if it is in PgUS's view that this is in the best interests of the Community and there are no conflicts of interest involved.
+    
+    Project Management
+    
+    Each Project has its own formal or informal internal structure and procedures. PgUS will not interfere in the internal decision making of Projects, unless this is requested by the Project or its rules and procedures.
+    
+    If a Project has rules and procedures about its relationship with PgUS then PgUS will honour them (for example by implementing decisions about property held for that Project if and only if they are made according to those rules and procedures) provided that they are consistent with its agreement with PgUS and with PgUS's goals, policies and legal obligations.
+    
+    If a Project's internal organization or procedures are unclear or disputed, PgUS will deal with the situation in a reasonable fashion; if possible PgUS will act according to the decisions or rough consensus of the Project's participants or in case of doubt that of the whole Community.
+    
+    Competition and Disputes
+    
+    It is PgUS's view that Free and Open Source software communities are enhanced by friendly internal competition. PgUS therefore does not usually have a conflict of interest when holding assets on behalf of two different but competing Projects.
+    
+    If Projects are in dispute with each other about property held by PgUS in trust for one or both of them, PgUS will not usually dispose of the property or use it (for example, by taking enforcement action about IPR) except by common consent of the Projects involved. PgUS will deal with the situation fairly, just as if it were a dispute within a single Project (see above).
+    
+    If no resolution can be found in a dispute about property held for one or more Projects, and it is the rough consensus of the Community that some particular action needs to be taken before resolution is likely, and it would be fair, reasonable, legal, and consistent with PgUS's policies to do so, then PgUS will take that action.
+    
+    In any case, PgUS may if agreed by disputing Projects act as an mediator or arbitrator.
+    
+    Inception of Associated Project status
+    
+    Following discussions of Associated Project status with the board of the corporation, if satisfied the PgUS Board will vote on a resolution inviting the project to become Associated with PgUS.
+    
+    This resolution will state the PgUS Board's current understanding of who is authorised to act for the project (liaison); a reference to a published governance document of the project; it will invite the project to join with PgUS according to this Framework; and it will state a date at which the invitation will lapse if not accepted.
+    
+    Termination of Associated Project status
+    
+    When notified by the management of a Project, or when the PgUS Board decides, the Association between PgUS and the Project is terminated or retired.
+    
+    Following termination, PgUS will not accept any further money or property for purposes related to that Project. Assets already held will nevertheless still be subject to the guidelines in this Framework, until it is disposed of (for example by transfer to another suitable non-profit organisation, or by being spent) according to this Framework.
+    
+    Retirement of Associated Project status
+    
+    A project may be considered retired if the liaison can not be contacted for a period of six months.
+    
+    The corporation shall make all reasonable efforts to contact the project if the Liaison is unavailable including but not limited to emailing other known members of the project, posting on the associated project mailing lists and posting to internal corporation lists.
+    
+    Terminated Project assets
+    
+    The process which is followed to manage assets after the termination of an Associated Project.
+    
+    1. A terminated Associated project shall have 6 months from the date of termination to determine the allocation or their respective assets. Should the project exceed this time frame the associated project assets shall move from the associated project trust to the corporation for the corporation use.
+    2. Should the project contact the corporation via an authorized contact within the six month time frame following the termination status of the project; the project may:
+       a. Request a transfer of funds to another 501c3
+       b. Donate the assets to PgUS
+    3. An authorized contact is one of:
+       a. The original liaison
+       b. The steering committee of the project
+       c. A new liaison with documentation of their new position within the project
+    
+    Retired Project assets
+    
+    The process which is followed to manage assets after the retirement of an Associated Project.
+    
+    1. If after a period of six months no contact can be made, the associated project will be considered retired and all assets will move from the associated project trust to the corporation for corporation use.
+    2. Should the project contact the corporation via an authorized contact after the six month period but before twelve months following the retirement status of the project the project may:
+       a. Request a transfer of funds to another 501c3
+       b. Request a removal of the retirement status
+    3. An authorized contact is one of:
+       a. The original liaison
+       b. The steering committee per the published governance document of the project
+       c. A new liaison with documentation of their new position within the project
+    
+    Non-Associated Projects which PgUS would like to support
+    
+    When the PgUS Board, and other parts of PgUS, like and approve of a project or activity, this may expressed as saying that PgUS (or the relevant bodies or individuals) 'support' the project.
+    
+    This does not imply any formal relationship or agreement with the non-Associated Project; PgUS will not take donations earmarked for the assistance of, or assets related to, a non-Associated Project.
+    
+vote_record: |
+    RT: Yay
+    KP: Yay
+    MB: Yay
+    MW: Yay
+    JM: Yay

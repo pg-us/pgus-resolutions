@@ -1,0 +1,19 @@
+title: "Committee of the Board: Conference Committee"
+resolution_date: 2014-09-30T00:00:00
+action_date: 2014-10-08T00:00:00
+action: Pending
+resolution: |
+    WHEREAS:
+    
+    1. The corporation wishes to extend its efforts in providing PostgreSQL
+       Conferences
+    
+    The United States PostgreSQL resolves that
+    
+    1. A committee of the board shall be formed to manage United States
+       PostgreSQL conferences
+    2. Decisions by the committee shall be reached via a simple majority vote.
+    3. The committee shall maintain at least 3 members
+vote_record: |
+    JD: +1 (and proposer, via email 2014-09-30)
+    RT: -1 (via email 2014-10-03)
