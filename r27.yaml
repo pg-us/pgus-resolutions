@@ -10,15 +10,31 @@ resolution: |
     The United States PostgreSQL Association resolves that
     
     1. It shall appoint Mark Wong as new Treasurer
+motion: email
 vote_record: |
-    MB: +1 (via email)
-    KK: +1 (via email)
-    JD: Proposed and +1 (via email)
-    GSM: Aye (via email)
-    BM: +1 (via email)
-    RT: +1 (via email)
-    MW: +1 (via email)
-    JSK: +1 (via email)
-    JM: +1 (via email)
-    
-    
+    - name: MB
+      vote: 1
+      date: 2011-09-09
+    - name: KK
+      date: 2011-09-09
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2011-09-09
+    - name: GSM
+      vote: 1
+      date: 2011-09-09
+    - name: BM
+      vote: 1
+      date: 2011-09-09
+    - name: RT
+      vote: 1
+      date: 2011-09-12
+    - name: MW
+      vote: 1
+      date: 2011-09-12
+    - name: JSK
+      vote: 1
+      date: 2014-02-19
+    - name: JM
+      vote: 1

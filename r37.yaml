@@ -7,9 +7,13 @@ resolution: |
     
     To spend $750 for a new page design for the websites by 99 designs and the
     winner will be determined by the majority vote of the board
+motion: voice
 vote_record: |
-    Unanimous
-    JD: Aye
-    MW: Aye
-    JSK: Aye
-    MAB: Aye
+    - name: JD
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MAB
+      vote: 1

@@ -29,9 +29,21 @@ resolution: |
        WhatcomPUG.
     
     7. The authorized contact of WhatcomPUG shall be Eric Worden
+motion: email
 vote_record: |
-    JD: +1 (and proposer, via email 2014-12-09)
-    MW: +1 (via email 2014-12-09)
-    JSK: +1 (via email 2014-12-10)
-    MAB: +1 (via email 2014-12-10)
-    RT: +1 (via email 2014-12-15)
+    - name: JD: +1 (and proposer, via email 2014-12-09)
+      proposer: yes
+      vote: 1
+      date: 2014-12-09
+    - name: MW
+      vote: 1
+      date: 2014-12-10
+    - name: JSK
+      vote: 1
+      date: 2014-12-10
+    - name: MAB
+      vote: 1
+      date: 2014-12-10
+    - name: RT
+      vote: 1
+      date: 2014-12-15

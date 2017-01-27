@@ -28,12 +28,26 @@ resolution: |
     Austin PUG.
     
     7. The authorized contacts of Austin PUG shall be Debra Cerda (Debra.Cerda@bluetreble.com) 
+motion: email
 vote_record: |
-    JSK: +1 (via email)
-    MB: +1 (via email)
-    JD: +1 (and proposer, via email)
-    MW: +1 (via email)
-    KP: +1 (via email)
-    JM: +1 (via email)
-    RT: +1 (via email)
-    
+    - name: JSK
+      vote: 1
+      date: 2016-05-09
+    - name: MB
+      vote: 1
+      date: 2016-05-09
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2016-05-09
+    - name: MW
+      vote: 1
+      date: 2016-05-09
+    - name: KP
+      vote: 1
+      date: 2016-05-09
+    - name: JM
+      vote: 1
+    - name: RT
+      vote: 1
+      date: 2016-05-13

@@ -60,10 +60,20 @@ resolution: |
             membership dues identified on Schedule A to these Bylaws (the
             “Membership Dues Schedule”). A Student Member shall cease to be a member
             in the event of its resignation or expulsion from this corporation.
+motion: voice
 vote_record: |
-    MW: Aye (motions)
-    KP: Yay
-    RT: Yay (seconds)
-    JM: Yay
-    JSK: Yay proxy JM
-    MB: Yay
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      seconded: yes
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: JSK
+      proxy: JM
+      vote: 1
+    - name: MB
+      vote: 1

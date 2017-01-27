@@ -1,4 +1,4 @@
-title: "RESOLUTION: SeaPUG as associated user group"
+title: SeaPUG as associated user group
 resolution_date: 2013-03-13T00:00:00
 action_date: 2013-03-15T00:00:00
 action: Approved
@@ -29,13 +29,33 @@ resolution: |
     SeaPUG.
     
     7. The authorized contact of SeaPUG shall be Lloyd Albin
+motion: email
 vote_record: |
-    MAB: +1 [via email 2012-03-13]
-    JSK: +1 [via email 2012-03-13]
-    MW: +1 [via email 2012-03-13]
-    KK: +1 [via email 2012-03-13]
-    JM: +1 [via email 2012-03-13]
-    GSM: +1 [via email 2012-03-13]
-    JD: +1 [via email 2012-03-13]
-    BM: +1 [via email 2012-03-14]
-    RT: +1 [via email 2012-03-15]
+    - name: MAB
+      vote: 1
+      date: 2012-03-13
+    - name: JSK
+      vote: 1
+      date: 2012-03-13
+    - name: MW
+      vote: 1
+      date: 2012-03-13
+    - name: KK
+      vote: 1
+      date: 2012-03-13
+    - name: JM
+      vote: 1
+      date: 2012-03-13
+    - name: GSM
+      vote: 1
+      date: 2012-03-13
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2012-03-13
+    - name: BM
+      vote: 1
+      date: 2012-03-14
+    - name: RT
+      vote: 1
+      date: 2012-03-15

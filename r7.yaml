@@ -15,7 +15,13 @@ resolution: |
     
     E.g; by becoming a member of US PostgreSQL you qualify for discounts
     to these sister organizations
+motion: email
 vote_record: |
-    JD - Yes (Proposed via email on May 22)
-    SD - No answer
-    MB - Yes (via email May 22)
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2008-05-22
+    - name: SD
+    - name: MB
+      vote: 1
+      date: 2008-05-22

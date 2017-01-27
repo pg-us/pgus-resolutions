@@ -35,7 +35,12 @@ resolution: |
     are re-elected, board elects new officers (which of course may be the
     same people).
     
+motion: email
 vote_record: |
-    JD - Yes (Proposed via email June 10th after extensive discussion on two different lists)
-    SD - Yes
-    MB - Yes
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: SD
+      vote: 1
+    - name: MB
+      vote: 1

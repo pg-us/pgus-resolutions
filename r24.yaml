@@ -1,4 +1,4 @@
-title: "RESOLUTION: Appoint Jim Mlodgeski to board"
+title: Appoint Jim Mlodgeski to board
 resolution_date: 2013-02-28T00:00:00
 action_date: 2013-03-07T00:00:00
 action: Approved
@@ -12,11 +12,27 @@ resolution: |
     
     1. It shall appoint Jim Mlodgeski as a new board member
     
+motion: email
 vote_record: |
-    MW: +1 (via email, 2013-02-28)
-    MB: +1 (via email, 2013-02-28)
-    JD: +1 (via email, 2013-02-28)
-    KK: +1 (via email, 2013-02-28)
-    RT: +1 (via email, 2013-03-01)
-    GSM: +1 (via email, 2013-03-02)
-    BM: +1 (via email, 2013-03-07)
+    - name: MW
+      vote: 1
+      date: 2013-02-28
+    - name: MB
+      vote: 1
+      date: 2013-02-28
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2013-02-28
+    - name: KK
+      vote: 1
+      date: 2013-02-28
+    - name: RT
+      vote: 1
+      date: 2013-03-01
+    - name: GSM
+      vote: 1
+      date: 2013-03-02
+    - name: BM
+      vote: 1
+      date: 2013-03-07

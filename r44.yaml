@@ -1,4 +1,4 @@
-title: "RESOLUTION: Support 6 months of meetup dues for new PUGS"
+title: Support 6 months of meetup dues for new PUGS
 resolution_date: 2016-03-11T00:00:00
 action_date: 2016-03-11T00:00:00
 action: Approved
@@ -17,13 +17,19 @@ resolution: |
     
     4. To request user group support for meetup.com fees, the organizer of the user group shall contact pugs@postgresql.us
     
+motion: voice
 vote_record: |
-    RT: +1
-    JSK: +1
-    JD: +1
-    MW: +1
-    KP: +1
-    JM: +1
-    MB: +1
-    [all via phone meeting on 3/11/2016]
-    
+    - name: RT
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JD
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: MB
+      vote: 1

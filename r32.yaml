@@ -29,11 +29,27 @@ resolution: |
     DFW PUG.
     
     7. The authorized contacts of DFW PUG shall be Kirk Roybal and Taha Kadado
+motion: email
 vote_record: |
-    MAB: +1 (via email)
-    JSK: +1 (and proposer, via email)
-    MW: +1 (via email)
-    RT: +1 (via email)
-    JD: +1 (via email)
-    KK: +1 (via email)
-    JM: +1 (via email)
+    - name: MAB
+      vote: 1
+      date: 2014-09-22
+    - name: JSK
+      proposer: yes
+      vote: 1
+      date: 2014-09-22
+    - name: MW
+      vote: 1
+      date: 2014-09-22
+    - name: RT
+      vote: 1
+      date: 2014-09-23
+    - name: JD
+      vote: 1
+      date: 2014-09-23
+    - name: KK
+      vote: 1
+      date: 2014-09-24
+    - name: JM
+      vote: 1
+      date: 2014-09-24

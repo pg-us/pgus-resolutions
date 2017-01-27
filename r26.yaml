@@ -30,13 +30,33 @@ resolution: |
     
     6. The authorized contact of PDXPUG shall be Gabrielle Roth.
     
+motion: email
 vote_record: |
-    JD: +1 via email 2013-04-24
-    MB: +1 via email 2013-04-25
-    JSK: +1 via email 2013-04-25
-    KK: +1 via email 2013-04-25
-    GSM: +1 via email 2013-04-25
-    JM: +1 via email 2013-04-25
-    RT: +1 via email 2013-04-25
-    BM: +1 via email 2013-05-02
-    MW: +1 via email 2013-05-06
+    - name: JD
+      vote: 1
+      date: 2013-04-24
+    - name: MB
+      vote: 1
+      date: 2013-04-25
+    - name: JSK
+      vote: 1
+      date: 2013-04-25
+    - name: KK
+      vote: 1
+      date: 2013-04-25
+    - name: GSM
+      vote: 1
+      date: 2013-04-25
+    - name: JM
+      vote: 1
+      date: 2013-04-25
+    - name: RT
+      vote: 1
+      date: 2013-04-25
+    - name: BM
+      vote: 1
+      date: 2013-05-02
+    - name: MW
+      proposer: yes
+      vote: 1
+      date: 2013-05-06

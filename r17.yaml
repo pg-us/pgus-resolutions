@@ -17,7 +17,15 @@ resolution: |
     2. All current business is up to date
     
     3. The current board shall forgo the semi-annual meeting
+motion: email
 vote_record: |
-    JD - Proposed (via email 10/20/2008): Yes
-    BM - Yes (via email 10/20/2008)
-    MB - Yes (via email 10/20/2008)
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2008-10-20
+    - name: BM
+      vote: 1
+      date: 2008-10-20
+    - name: MB
+      vote: 1
+      date: 2008-10-20

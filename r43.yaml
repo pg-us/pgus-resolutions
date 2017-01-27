@@ -9,10 +9,15 @@ resolution: |
     (2) PgUS resolves that we will sponsor LFNW at the Gold level for $1000.
     (3) We shall receive a booth for such sponsorship that will be shared with
         SEAPUG.
+motion: voice
 vote_record: |
-    Unaminmous
-    MB:
-    KP:
-    RT:
-    MW:
-    JSK:
+    - name: MB
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1

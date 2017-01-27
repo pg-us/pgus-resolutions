@@ -14,8 +14,16 @@ resolution: |
      2. The committee shall be a committee of the board
      3. Decisions by the committee shall be reached via a simple majority
     vote.
+motion: email
 vote_record: |
-    JD - Proposed (via email 09/18/2008): Yes
-    BM - Yes (via email 09/18/2008)
-    MB - Yes (via email 09/19/2008)
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2008-09-18
+    - name: BM
+      vote: 1
+      date: 2008-09-18
+    - name: MB
+      vote: 1
+      date: 2008-09-19
     

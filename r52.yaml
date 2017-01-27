@@ -1,4 +1,4 @@
-title: Delay election
+title: Membership Status
 resolution_date: 2016-10-14T00:00:00
 action_date: 2016-10-14T00:00:00
 action: Approved
@@ -25,11 +25,20 @@ resolution: |
     MW asks if addition of members will impact how the election will be carried out
     JD answers saying the members will not affect election
     
+motion: voice
 vote_record: |
-    RT: No
-    KP: Abstain
-    MB: Abstain
-    JSK: Yay
-    MW: Abstain
-    JM: Yes
-    JD: Yes
+    - name: RT
+      vote: -1
+    - name: KP: Abstain
+      vote: 0
+    - name: MB: Abstain
+      vote: 0
+    - name: JSK: Yay
+      vote: 1
+    - name: MW: Abstain
+      vote: 0
+    - name: JM: Yes
+      vote: 1
+    - name: JD: Yes
+      proposer: yes
+      vote: 1

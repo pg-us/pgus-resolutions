@@ -25,10 +25,19 @@ resolution: |
     4. The corporation may see fit from time to time to assist an Associated
        Project financially. This assistance will be from the United States PostgreSQL
        general fund and not the Associated Project ledger.
+motion: voice
 vote_record: |
-    JD: Yay
-    KP: Yay
-    RT: Yay (proxy)
-    JSK: Yay
-    MB: Yay (proxy)
-    MW: Yay
+    - name: JD
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      proxy: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MB
+      proxy: KP
+      vote: 1
+    - name: MW
+      vote: 1

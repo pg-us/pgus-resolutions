@@ -14,12 +14,24 @@ resolution: |
     2. Should Kevin accept the appointment he shall serve the rest of Andrew
     Dunstan's term
     
+motion: email
 vote_record: |
-    JD - Proposed (via email 04-12-2010): Yes
-    RB - (via email 04-12-2010): Yes
-    MB - (via email 04-12-2010): Yes
-    BM - (via email 04-12-2010): Yes
-    GSM - (via email 04-13-2010): Yes
-    RT - (via email 04-13-2010): Yes
-    
-    KK - (via email 04-13-2010): Accepts the appointment.
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2010-04-12
+    - name: RB
+      vote: 1
+      date: 2010-04-12
+    - name: MB
+      vote: 1
+      date: 2010-04-12
+    - name: BM
+      vote: 1
+      date: 2010-04-12
+    - name: GSM
+      vote: 1
+      date: 2010-04-13
+    - name: RT
+      vote: 1
+      date: 2010-04-13

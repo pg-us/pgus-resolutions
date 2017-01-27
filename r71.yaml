@@ -7,5 +7,7 @@ resolution: |
     
     	The corporation wishes to grant lifetime membership privileges and all
     	benefits thereof to any Major Contributor to PostgreSQL.
+motion: voice
 vote_record: |
-    MW: (motioned)
+    - name: MW
+      proposer: yes

@@ -24,12 +24,22 @@ resolution: |
     
     8. The 3 candidates with the most votes following the highest ranked 4
     shall serve the stated 2 year term.
+motion: voice
 vote_record: |
-    MAB: +1 (via email)
-    MW: +1 (via email)
-    JSK: +1 (via email)
-    JM: +1 (via email)
-    RT: +1 (via email)
-    BM: Aye (via voice on call)
-    KK: Aye (via voice on call)
-    JD: Aye (and proposer, via voice on call)
+    - name: MAB
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: BM
+      vote: 1
+    - name: KK
+      vote: 1
+    - name: JD
+      proposer: yes
+      vote: 1

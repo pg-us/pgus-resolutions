@@ -17,12 +17,26 @@ resolution: |
     4. It shall be at the membership committees sole discretion what
     qualifies as PostgreSQL community participation.
     
+motion: email
 vote_record: |
-    JD: Proposed (and, presumably, +1) via email
-    MB: +1 via email
-    BM: +1 via email
-    KK: +1 via email
-    MW: +1 via email
-    GSM: Aye via email
-    RT: +1 via email
-    
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: MB
+      vote: 1
+      date: 2011-10-12
+    - name: BM
+      vote: 1
+      date: 2011-10-12
+    - name: KK
+      vote: 1
+      date: 2011-10-12
+    - name: MW
+      vote: 1
+      date: 2011-10-12
+    - name: GSM
+      vote: 1
+      date: 2011-10-13
+    - name: RT
+      vote: 1
+      date: 2011-10-13

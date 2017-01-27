@@ -8,10 +8,15 @@ resolution: |
     nominees with the most votes at the end of the election shall be
     declared the winners. Ties will result in a revote for the remaining
     seat(s), with the candidates limited to the tied candidates.
+motion: email
 vote_record: |
-    Proposed by MAB, per discussion on -board.
-    
-    JD - Yes [via email on 09/09/2008]
-    BM - Yes [via email on 09/09/2008]
-    MB - Yes [proposer via email on 09/09/2008]
-    
+    - name: JD
+      vote: 1
+      date: 2008-09-09
+    - name: BM
+      vote: 1
+      date: 2008-09-09
+    - name: MB
+      proposer: yes
+      vote: 1
+      date: 2008-09-09

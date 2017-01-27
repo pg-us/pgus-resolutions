@@ -19,7 +19,15 @@ resolution: |
     3. Any person who is a voting member before October 31st is eligible to
     vote in the 2008 semi annual election.
     
+motion: email
 vote_record: |
-    JD - Proposed (via email 10/07/2008): Yes
-    BM - Yes (via email 10/07/2008)
-    MB - Yes (via email 10/07/2008)
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2008-10-07
+    - name: BM
+      vote: 1
+      date: 2008-10-07
+    - name: MB
+      vote: 1
+      date: 2008-10-07

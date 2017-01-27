@@ -9,8 +9,12 @@ resolution: |
     Founders are up for re-election October 2010 with their seats being
     replaced or renewed March 2010
     
+motion: email
 vote_record: |
-    Motion was proposed by Joshua Drake via both phone and email on 31 July 2008;  Michael Brewer accepted via email (and phone), so the vote is:
-    
-    JD - Yes
-    MB - Yes
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2008-07-31
+    - name: MB
+      vote: 1
+      date: 2008-07-31

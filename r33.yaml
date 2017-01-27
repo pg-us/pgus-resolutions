@@ -14,6 +14,17 @@ resolution: |
        PostgreSQL conferences
     2. Decisions by the committee shall be reached via a simple majority vote.
     3. The committee shall maintain at least 3 members
+motion: email
 vote_record: |
-    JD: +1 (and proposer, via email 2014-09-30)
-    RT: -1 (via email 2014-10-03)
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2014-09-30
+    - name: RT
+      vote: -1
+      date: 2014-10-03
+    - name: KP
+    - name: MW
+    - name: MAB
+    - name: JSK
+    - name: JM

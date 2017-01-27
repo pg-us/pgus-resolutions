@@ -11,11 +11,22 @@ resolution: |
     THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
     
       1. A membership benefit is eligibility to lead a committee
+motion: voice
 vote_record: |
-    JSK: Yes (seconded)
-    JM: Yes (via proxy)
-    JD: Yes
-    KP: Yes
-    RT: Yes
-    MW: Yes (motions)
-    MB: Yes
+    - name: JSK:
+      seconded: yes
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: JD
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: MB
+      vote: 1

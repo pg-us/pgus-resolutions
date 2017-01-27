@@ -50,11 +50,22 @@ resolution: |
      	Article II. Membership. Section 11 Vote by Proxy.
      	Article II. Membership. Section 12 Record Date.
      	Article II. Membership. Section 13 Conducts of Meetings.
+motion: voice
 vote_record: |
-    JSK: Yes (seconded)
-    JM: Yes (via proxy JSK)
-    MW: Yes (motions)
-    KP: Yes
-    RT: Abstain
-    JD: Yes
-    MB: Yes
+    - name: JSK
+      seconded: yes
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 0
+    - name: JD
+      vote: 1
+    - name: MB
+      vote: 1

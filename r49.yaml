@@ -17,9 +17,15 @@ resolution: |
     5. The votes shall be tallied in descending order
     
     6. The 3 candidates with the most votes shall serve the stated 2 year term.
+motion: voice
 vote_record: |
-    RT: Yay
-    KP: Yay
-    MB: Yay
-    MW: Yay
-    JM: Yay
+    - name: RT
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JM
+      vote: 1

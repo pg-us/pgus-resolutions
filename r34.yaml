@@ -16,5 +16,4 @@ resolution: |
      3. The committee shall provide a monthly report of its activities every 30
         days. However, should a board meeting not be organized within that time
         period, it shall be submitted via email.
-vote_record: |
-    The resolution passed with a simple majority vote
+motion: voice

@@ -5,8 +5,13 @@ action: Approved
 resolution: |
     [JD] Allow website comments on bylaws (but only from logged-in
     people).
+motion: email
 vote_record: |
-    JD - Proposer (so, "Yes") (email)
-    SD - Yes (email)
-    MB - Yes (email)
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: SD
+      vote: 1
+    - name: MB
+      vote: 1
     

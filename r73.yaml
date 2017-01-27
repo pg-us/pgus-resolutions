@@ -26,11 +26,22 @@ resolution: |
     3. An authorized contact is one of:
      	A. The current liaison
      	B. The steering committee per the published governance document of the project
+motion: voice
 vote_record: |
-    KP: Yes
-    JD: Yes (motioned)
-    JSK: Yes
-    JM, +1 via proxy JSK
-    RT: +1
-    MW: +1
-    MB: +1 (seconded)
+    - name: KP
+      vote: 1
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: MB
+      seconded: yes
+      vote: 1

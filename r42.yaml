@@ -16,11 +16,27 @@ resolution: |
     3. The corporation will budget 10,000 USD for travel and attendance to educational conferences about PostgreSQL for the calendar year of 2016.
     
     4. The President of the corporation shall create a Committee of the Board for management of the scholarships including person eligibility, guidelines and eligible conferences.
+motion: email
 vote_record: |
-    JM: +1 (via email)
-    JSK: +1 (via email)
-    KP: +1 (via email)
-    MW: +1 (via email)
-    RT: +1 (via email)
-    JD: +1 (via email)
-    MB: +1 (via email)
+    - name: JM
+      vote: 1
+      date: 2015-08-27
+    - name: JSK
+      vote: 1
+      date: 2015-08-31
+    - name: KP
+      vote: 1
+      date: 2015-08-31
+    - name: MW
+      vote: 1
+      date: 2015-09-01
+    - name: RT
+      vote: 1
+      date: 2015-09-01
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2015-09-02
+    - name: MB
+      vote: 1
+      date: 2015-09-02

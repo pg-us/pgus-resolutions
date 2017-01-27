@@ -62,11 +62,21 @@ resolution: |
       	Professional $25.00
     
       	Student $10.00
+motion: voice
 vote_record: |
-    MW: Yay (motion)
-    JD: Nay
-    RT: Nay
-    JM: Abstain (proxy, JSK)
-    KP: Nay
-    MB: Nay
-    JSK: Nay
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JD
+      vote: -1
+    - name: RT
+      vote: -1
+    - name: JM
+      proxy: JSK
+      vote: 0
+    - name: KP
+      vote: -1
+    - name: MB
+      vote: -1
+    - name: JSK
+      vote: -1

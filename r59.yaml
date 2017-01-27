@@ -13,10 +13,20 @@ resolution: |
        that the association participates in
     2. Decisions by the committee shall be reached via a simple majority vote.
     3. The committee shall maintain at least 3 members
+motion: voice
 vote_record: |
-    JD: Yay (seconded)
-    KP: Yay
-    RT: Yay (proxy)
-    JSK: Yay
-    MB: Yay (silently, on phone)
-    MW: Yay (motions)
+    - name: JD
+      seconded: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      proxy: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1

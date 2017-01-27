@@ -25,14 +25,33 @@ resolution: |
     
     Jonathan Katz
     Jim Mlodgenski
+motion: email
 vote_record: |
-    BM: +1 (via email)
-    JD: +1 (via email)
-    MAB: +1 (via email)
-    KK: +1 (via email)
-    MW: +1 (and proposer, via email)
-    JM: +1 (via email)
-    GSM: +1 (via email)
-    JSK: +1 (via email)
-    RT: +1 (via email)
-    
+    - name: BM
+      vote: 1
+      date: 2014-08-27
+    - name: JD
+      vote: 1
+      date: 2014-08-28
+    - name: MAB
+      vote: 1
+      date: 2014-08-28
+    - name: KK
+      vote: 1
+      date: 2014-08-28
+    - name: MW
+      proposer: yes
+      vote: 1
+      date: 2014-08-27
+    - name: JM
+      vote: 1
+      date: 2014-08-29
+    - name: GSM
+      vote: 1
+      date: 2014-08-29
+    - name: JSK
+      vote: 1
+      date: 2014-08-29
+    - name: RT
+      vote: 1
+      date: 2014-09-02

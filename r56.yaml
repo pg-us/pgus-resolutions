@@ -30,10 +30,19 @@ resolution: |
     4. At the request of the Treasurer a public budget will be made available.
     
     5. Associated Projects at an Officer’s request will provide a project status update
+motion: voice
 vote_record: |
-    JD: Yay
-    KP: Yay
-    RT: Yay (proxy)
-    JSK: Yay
-    MB: Yay (proxy)
-    MW: Yay
+    - name: JD
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      proxy: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MB
+      proxy: KP
+      vote: 1
+    - name: MW
+      vote: 1

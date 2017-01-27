@@ -34,5 +34,12 @@ resolution: |
     	A. The original liaison
     	B. The steering committee of the project
     	C. A new liaison with documentation of their new position within the project
+motion: email
 vote_record: |
-    JD (email)
+    - name: JD
+    - name: MW
+    - name: KP
+    - name: MAB
+    - name: RT
+    - name: JSK
+    - name: JM

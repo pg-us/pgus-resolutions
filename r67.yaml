@@ -11,11 +11,22 @@ resolution: |
     THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
     
       1. Membership is not required to be eligible to receive grants.
+motion: voice
 vote_record: |
-    JD: Yes (seconded)
-    KP: Yes
-    JSK: Yes
-    JM: Yes (via proxy JSK)
-    MW: Yes (motions)
-    RT: Abstain
-    MB: Yes
+    - name: JD
+      seconded: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MB
+      vote: 1

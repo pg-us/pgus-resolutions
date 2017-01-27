@@ -10,9 +10,13 @@ resolution: |
     affiliations to the oversight of the PgUS board conference committee, and
     Joshua D Drake will transfer ownership of the pgconf.us domain to the PgUS
     board.
+motion: voice
 vote_record: |
-    Unanimous
-    JD: Aye
-    MW: Aye
-    JSK: Aye
-    MAB: Aye
+    - name: JD
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MAB
+      vote: 1

@@ -8,9 +8,16 @@ resolution: |
     The corporation wishes to grant membership privileges and all benefits
     thereof to any active member of the board of directors.
     
+motion: voice
 vote_record: |
-    RT: Yay
-    KP: Yay
-    MB: Yay
-    MW: Yay
-    JM: Yay
+    - name: RT
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JM
+      vote: 1

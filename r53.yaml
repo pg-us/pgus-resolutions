@@ -40,11 +40,20 @@ resolution: |
     Discussion:
     
     MW asks for contingency to invalidate this resolution if any of these dates specified in the resolution are not able to be met because of the addition of members.  Based on history of failure to carrying out previous resolutions, how can this 11th hour resolution be successful?
+motion: voice
 vote_record: |
-    RT: No
-    KP: Yes
-    JSK: Yes
-    MW: Abstain
-    JM: Yes
-    JD: Yes
-    MB: Abstain
+    - name: RT
+      vote: -1
+    - name: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MW
+      vote: 0
+    - name: JM
+      vote: 1
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: MB
+      vote: 0

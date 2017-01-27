@@ -26,9 +26,15 @@ resolution: |
     from time to time by the Board. The President shall designate the
     members and Officers of each standing committee and each other committee
     created by the Board from time to time.
+motion: voice
 vote_record: |
-    MW: Motions for amendments to bylaws
-    JSK: +1 (seconded)
-    MB: +1
-    KP: +1
-    MW: +1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JSK
+      seconded: yes
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: KP
+      vote: 1

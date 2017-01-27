@@ -18,14 +18,31 @@ resolution: |
     1. All paid attendees of PgConf NYC at their behest will receive a
     United States PostgreSQL Professional membership and all benefits
     thereof at no additional cost.
+motion: email
 vote_record: |
-    JD: +1 (and proposer, via email)
-    JSK: +1 (via email)
-    MAB: +1 (via email)
-    JM: +1 (via email)
-    MW: +1 (via email)
-    RT: +1 (via email)
-    KK: +1 (via email)
-    GSM: +1 (via email)
-    BM: +1 (via email)
-    
+    - name: JD
+      proposer: yes
+      vote: 1
+      date: 2014-03-14
+    - name: JSK
+      vote: 1
+      date: 2014-03-14
+    - name: MAB
+      vote: 1
+      date: 2014-03-14
+    - name: JM
+      vote: 1
+    - name: MW
+      vote: 1
+      date: 2014-03-14
+    - name: RT
+      vote: 1
+      date: 2014-03-16
+    - name: KK
+      vote: 1
+      date: 2014-03-16
+    - name: GSM
+      vote: 1
+    - name: BM
+      vote: 1
+      date: 2014-03-16

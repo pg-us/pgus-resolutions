@@ -21,5 +21,7 @@ resolution: |
     
      	A. The current Associated Project Liaison
      	B. The steering committee per the published governance document of --
+motion: voice
 vote_record: |
-    JD: (motioned)
+    - name: JD
+      proposer: yes

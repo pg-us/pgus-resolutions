@@ -12,11 +12,22 @@ resolution: |
       1. If the holders of at least five percent (5%) of the voting power of the
          corporation, sign, date and deliver to the corporation secretary one or
          more written motions to be presented to the board.
+motion: voice
 vote_record: |
-    JD: Abstain
-    JSK: Yes
-    JM: Yes, via proxy JSK
-    RT: Yes (seconds)
-    MW: Yes (motions)
-    KP: Yes
-    MB: Yes
+    - name: JD
+      vote: 0
+    - name: JSK
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: RT
+      seconded: yes
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: MB
+      vote: 1

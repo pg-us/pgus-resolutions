@@ -8,9 +8,13 @@ resolution: |
     To purchase Gold Sponsorship for Linux Festival Northwest in an effort to
     increase our visibility.
     
+motion: voice
 vote_record: |
-    Unanimous
-    JD: Aye
-    MW: Aye
-    JSK: Aye
-    MAB: Aye
+    - name: JD
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MAB
+      vote: 1

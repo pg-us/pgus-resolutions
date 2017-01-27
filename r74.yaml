@@ -34,12 +34,24 @@ resolution: |
      	B. The steering committee of the project
     
     5. An Associated Project that has a Termination of Associated Project status vote pending shall be provided with a 14 days notice of the vote.
+motion: voice
 vote_record: |
-    KP: Yes
-    JSK: Yes (seconded)
-    JM:Yes, proxy JSK
-    JD: Yes (motions)
-    KP: Yes
-    MW: Abstain
-    RT: No
-    MB: Yes
+    - name: KP
+      vote: 1
+    - name: JSK
+      seconded: yes
+      vote: 1
+    - name: JM
+      proxy: JSK
+      vote: 1
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: MW
+      vote: 0
+    - name: RT
+      vote: -1
+    - name: MB
+      vote: 1

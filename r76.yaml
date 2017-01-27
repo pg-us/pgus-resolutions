@@ -4,11 +4,21 @@ action_date: 2016-12-09T00:00:00
 action: Approved
 resolution: |
     Joshua Drake to released postgresql.us domain to PGUS's AWS account
+voice:
 vote_record: |
-    JD: Yes (motions)
-    JSK: Yes/
-    JM: Yes (via proxy JSK)
-    MW: Yea (seconds)
-    RT: Yea
-    KP: Yay
-    MB: Abstain
+    - name: JD
+      proposer: yes
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: MW
+      seconded: yes
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: MB
+      vote: 0

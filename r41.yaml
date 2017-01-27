@@ -14,9 +14,23 @@ resolution: |
     1. All paid attendees of PgConf US and any future conference organized by
        the corporation will receive a United States PostgreSQL Professional
        membership and all benefits thereof at no additional cost.
+motion: email
 vote_record: |
-    JSK: +1 (via email 2015-03-12)
-    MAB: +1 (via email 2015-03-12)
-    KP: -1 (via email 2015-03-12)
-    JD: -1 (via email 2015-03-12)
-    RT: -1 (via email 2015-03-13)
+    - name: JSK
+      vote: 1
+      date: 2015-03-12
+    - name: MAB
+      vote: 1
+      date: 2015-03-12
+    - name: KP
+      vote: -1
+      date: 2015-03-12
+    - name: JD
+      vote: -1
+      date: 2015-03-12
+    - name: RT
+      vote: -1
+      date: 2015-03-13
+    - name: MA
+    - name: JM
+      proposer: yes
