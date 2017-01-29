@@ -26,19 +26,19 @@ resolution: |
     JD answers saying the members will not affect election
     
 motion: voice
-vote_record: |
+vote_record:
     - name: RT
       vote: -1
-    - name: KP: Abstain
+    - name: KP
       vote: 0
-    - name: MB: Abstain
+    - name: MB
       vote: 0
-    - name: JSK: Yay
+    - name: JSK
       vote: 1
-    - name: MW: Abstain
+    - name: MW
       vote: 0
-    - name: JM: Yes
+    - name: JM
       vote: 1
-    - name: JD: Yes
+    - name: JD
       proposer: yes
       vote: 1

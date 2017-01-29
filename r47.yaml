@@ -9,7 +9,7 @@ resolution: |
     thereof to any active member of the board of directors.
     
 motion: voice
-vote_record: |
+vote_record:
     - name: RT
       vote: 1
     - name: KP

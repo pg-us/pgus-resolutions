@@ -51,7 +51,7 @@ resolution: |
      	Article II. Membership. Section 12 Record Date.
      	Article II. Membership. Section 13 Conducts of Meetings.
 motion: voice
-vote_record: |
+vote_record:
     - name: JSK
       seconded: yes
       vote: 1

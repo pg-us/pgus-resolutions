@@ -31,7 +31,7 @@ resolution: |
     
     5. Associated Projects at an Officer’s request will provide a project status update
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: KP

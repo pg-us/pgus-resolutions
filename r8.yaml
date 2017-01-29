@@ -15,8 +15,8 @@ resolution: |
      6. Ability to bring motions
      7. Professional listing in member directory
      8. Offer postgresql.us jabber accounts for paying members.
-motion: email:
-vote_record: |
+motion: email
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

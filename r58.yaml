@@ -18,7 +18,7 @@ resolution: |
     4. The authorized contacts of PostgresOpen shall be Joe Conway (mail@joeconway.com)
        and Stephen Frost (sfrost@snowman.net)
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: KP

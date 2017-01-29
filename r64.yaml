@@ -63,7 +63,7 @@ resolution: |
     
       	Student $10.00
 motion: voice
-vote_record: |
+vote_record:
     - name: MW
       proposer: yes
       vote: 1

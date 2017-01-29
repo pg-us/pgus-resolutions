@@ -19,7 +19,7 @@ resolution: |
     United States PostgreSQL Professional membership and all benefits
     thereof at no additional cost.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

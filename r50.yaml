@@ -26,7 +26,7 @@ resolution: |
        Project financially. This assistance will be from the United States PostgreSQL
        general fund and not the Associated Project ledger.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

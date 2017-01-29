@@ -47,7 +47,7 @@ resolution: |
     8. Votes shall be tallied in descending order and the top three candidates
        win.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
     - name: JM

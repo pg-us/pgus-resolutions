@@ -9,7 +9,7 @@ resolution: |
     declared the winners. Ties will result in a revote for the remaining
     seat(s), with the candidates limited to the tied candidates.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
       date: 2008-09-09

@@ -12,7 +12,7 @@ resolution: |
     
       1. Membership is not required to be eligible to receive grants.
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       seconded: yes
       vote: 1

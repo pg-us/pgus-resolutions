@@ -18,7 +18,7 @@ resolution: |
     4. The authorized contacts of PGConf.US shall be Jonathan S. Katz
        (jkatz@postgresql.us) and Jim Mlodgenski (jimm@postgresql.us)
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: KP

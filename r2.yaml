@@ -9,7 +9,7 @@ resolution: |
     Conduct when promoting, educating or otherwise participating in the
     Open Source community on behalf of PostgreSQL"
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

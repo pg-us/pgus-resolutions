@@ -38,7 +38,7 @@ resolution: |
     	nomination and election of officers that are consistent with these
     	Bylaws.
 motion: voice
-vote_record: |
+vote_record:
     - name: MW
       proposer: yes
       vote: 1

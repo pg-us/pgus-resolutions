@@ -18,7 +18,7 @@ resolution: |
     
     3. The current board shall forgo the semi-annual meeting
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

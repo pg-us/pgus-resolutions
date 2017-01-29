@@ -13,7 +13,7 @@ resolution: |
          corporation, sign, date and deliver to the corporation secretary one or
          more written motions to be presented to the board.
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 0
     - name: JSK

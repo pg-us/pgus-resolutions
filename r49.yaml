@@ -18,7 +18,7 @@ resolution: |
     
     6. The 3 candidates with the most votes shall serve the stated 2 year term.
 motion: voice
-vote_record: |
+vote_record:
     - name: RT
       vote: 1
     - name: KP

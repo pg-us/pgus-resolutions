@@ -10,7 +10,7 @@ resolution: |
     (3) We shall receive a booth for such sponsorship that will be shared with
         SEAPUG.
 motion: voice
-vote_record: |
+vote_record:
     - name: MB
       vote: 1
     - name: KP

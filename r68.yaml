@@ -12,8 +12,8 @@ resolution: |
     
       1. A membership benefit is eligibility to lead a committee
 motion: voice
-vote_record: |
-    - name: JSK:
+vote_record:
+    - name: JSK
       seconded: yes
       vote: 1
     - name: JM

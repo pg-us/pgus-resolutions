@@ -15,7 +15,7 @@ resolution: |
        the corporation will receive a United States PostgreSQL Professional
        membership and all benefits thereof at no additional cost.
 motion: email
-vote_record: |
+vote_record:
     - name: JSK
       vote: 1
       date: 2015-03-12

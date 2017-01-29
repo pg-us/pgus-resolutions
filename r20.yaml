@@ -18,7 +18,7 @@ resolution: |
     qualifies as PostgreSQL community participation.
     
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

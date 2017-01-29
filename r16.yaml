@@ -20,7 +20,7 @@ resolution: |
     vote in the 2008 semi annual election.
     
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

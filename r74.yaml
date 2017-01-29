@@ -35,7 +35,7 @@ resolution: |
     
     5. An Associated Project that has a Termination of Associated Project status vote pending shall be provided with a 14 days notice of the vote.
 motion: voice
-vote_record: |
+vote_record:
     - name: KP
       vote: 1
     - name: JSK

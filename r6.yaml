@@ -6,7 +6,7 @@ resolution: |
     [JD] Allow website comments on bylaws (but only from logged-in
     people).
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

@@ -8,6 +8,6 @@ resolution: |
     	The corporation wishes to grant membership privileges and all benefits
     	thereof to any current PostgreSQL Core team member.
 motion: voice
-vote_record: |
+vote_record:
     - name: MW
       proposer: 1

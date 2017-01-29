@@ -5,7 +5,7 @@ action: Approved
 resolution: |
     Tabling the membership benefits discussion until the bylaws discussion is completed.
 motion: irc
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: SD

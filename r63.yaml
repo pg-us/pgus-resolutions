@@ -23,7 +23,7 @@ resolution: |
     	B. The steering committee per the published governance document of the project
     	C. A new liaison with documentation of their new position within the project
 motion: email
-vote_record: |
+vote_record:
     - name: JD
     - name: MW
     - name: KP

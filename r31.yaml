@@ -32,7 +32,7 @@ resolution: |
     
     9. The authorized contact of PostgresOpen shall be Kris Pennella.
 motion: email
-vote_record: |
+vote_record:
     - name: JM
       vote: 1
       date: 2014-09-24

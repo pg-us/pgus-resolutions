@@ -14,7 +14,7 @@ resolution: |
     2. Decisions by the committee shall be reached via a simple majority vote.
     3. The committee shall maintain at least 3 members
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       seconded: yes
       vote: 1

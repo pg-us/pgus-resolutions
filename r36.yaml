@@ -11,7 +11,7 @@ resolution: |
     Joshua D Drake will transfer ownership of the pgconf.us domain to the PgUS
     board.
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: MW

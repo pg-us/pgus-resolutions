@@ -16,7 +16,7 @@ resolution: |
     E.g; by becoming a member of US PostgreSQL you qualify for discounts
     to these sister organizations
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

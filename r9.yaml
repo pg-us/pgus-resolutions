@@ -15,7 +15,7 @@ resolution: |
      * Continue the support of the PostgreSQL Community Conference Series
     including West, East and PGDays at OSCON and LWE.
 motion: vote
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

@@ -25,7 +25,7 @@ resolution: |
     8. The 3 candidates with the most votes following the highest ranked 4
     shall serve the stated 2 year term.
 motion: voice
-vote_record: |
+vote_record:
     - name: MAB
       vote: 1
     - name: MW

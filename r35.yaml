@@ -9,7 +9,7 @@ resolution: |
     increase our visibility.
     
 motion: voice
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
     - name: MW

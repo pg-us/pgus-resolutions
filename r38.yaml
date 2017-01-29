@@ -16,7 +16,7 @@ resolution: |
             1.  All money collected specifically for the NYC Tech Event will not
                 be subject to the 5% collection fee that NYCPUG provides to PgUS
 motion: email
-vote_record: |
+vote_record:
     - name: JSK
       proposer: yes
       vote: 1

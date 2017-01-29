@@ -15,7 +15,7 @@ resolution: |
      3. Decisions by the committee shall be reached via a simple majority
     vote.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

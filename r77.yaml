@@ -61,7 +61,7 @@ resolution: |
             “Membership Dues Schedule”). A Student Member shall cease to be a member
             in the event of its resignation or expulsion from this corporation.
 motion: voice
-vote_record: |
+vote_record:
     - name: MW
       proposer: yes
       vote: 1

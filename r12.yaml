@@ -22,7 +22,7 @@ resolution: |
     4. The board understands that Joshua Drake may delegate book keeping to
     those who are outside the board.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       vote: 1
       date: 2008-08-06

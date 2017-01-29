@@ -12,7 +12,7 @@ resolution: |
     1. It shall appoint Mark Wong as a new board member
     
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

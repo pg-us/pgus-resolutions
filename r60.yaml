@@ -27,7 +27,7 @@ resolution: |
     members and Officers of each standing committee and each other committee
     created by the Board from time to time.
 motion: voice
-vote_record: |
+vote_record:
     - name: MW
       proposer: yes
       vote: 1

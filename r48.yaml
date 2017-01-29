@@ -101,6 +101,6 @@ resolution: |
     This does not imply any formal relationship or agreement with the non-Associated Project; PgUS will not take donations earmarked for the assistance of, or assets related to, a non-Associated Project.
     
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes

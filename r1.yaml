@@ -13,7 +13,7 @@ resolution: |
     
     The conference series is an autonomous project being supported by PGUS.
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

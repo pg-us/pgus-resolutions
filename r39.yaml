@@ -30,7 +30,7 @@ resolution: |
     
     6. The authorized contact of SDPUG shall be Joe Conway
 motion: email
-vote_record: |
+vote_record:
     - name: JD
       proposer: yes
       vote: 1

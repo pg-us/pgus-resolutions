@@ -18,7 +18,7 @@ resolution: |
     4. To request user group support for meetup.com fees, the organizer of the user group shall contact pugs@postgresql.us
     
 motion: voice
-vote_record: |
+vote_record:
     - name: RT
       vote: 1
     - name: JSK
