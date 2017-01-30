@@ -104,3 +104,9 @@ motion: email
 vote_record:
     - name: JD
       proposer: yes
+    - name: JM
+    - name: JSK
+    - name: KP
+    - name: MAB
+    - name: MW
+    - name: RT

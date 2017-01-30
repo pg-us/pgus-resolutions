@@ -31,6 +31,7 @@ resolution: |
     
     7. The authorized contacts of PostgresOpen shall be Kris Pennella
        (kris@postgresql.us) and Stephen Frost (sfrost@snowman.net)
+motion: email
 vote_record:
     - name: KP
       proposer: yes
@@ -40,3 +41,7 @@ vote_record:
     - name: JM
       vote: -1
       date: 2016-07-20
+    - name: JD
+    - name: MAB
+    - name: JSK
+    - name: RT
