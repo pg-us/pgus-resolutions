@@ -1,0 +1,9 @@
+PGUS Resolutions
+================
+
+All resolutions that have ever been proposed are in the doc directory.
+
+An example in YAML is example.yaml.
+
+A script that uses python and sqlite3 to build a SQL database of the
+resolutions is in scripts/create-db.py.  Run it from the root directory.

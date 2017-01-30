@@ -1,0 +1,25 @@
+title: Title goes here
+resolution_date: 2017-01-01T00:00:00
+action_date: 2017-01-01T00:00:00
+action: Pending
+resolution: |
+    The resolution goes here.
+    
+    Make sure it's indented.
+motion: voice
+vote_record:
+    - name: DC
+      proposer: yes
+      vote: 
+    - name: JC
+      vote: 
+    - name: JM
+      vote: 
+    - name: JSK
+      vote: 
+    - name: MAB
+      vote: 
+    - name: MW
+      vote: 
+    - name: SF
+      vote: 
