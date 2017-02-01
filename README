@@ -7,3 +7,14 @@ An example in YAML is example.yaml.
 
 A script that uses python and sqlite3 to build a SQL database of the
 resolutions is in scripts/create-db.py.  Run it from the root directory.
+
+Using sqlite
+------------
+
+Run the following command to build the sqlite3 database:
+
+    scripts/create-db.py
+
+Run the following command to list all the resolutions and page it into less:
+
+    sqlite3 -line pgus "select id, action, title, resolution from resolutions order by id" | less
