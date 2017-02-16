@@ -20,7 +20,8 @@ resolution: |
     4. The Authorized Contacts is one of:
     
      	A. The current Associated Project Liaison
-     	B. The steering committee per the published governance document of --
+        B. The steering committee per the published governance document of the project
+        C. A new liaison with documentation of their new position within the project
 motion: voice
 vote_record:
     - name: JD
