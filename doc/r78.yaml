@@ -1,14 +1,22 @@
-title: Dissolution of 
+title: Dissolution of education committee
 resolution_date: 2017-02-10T00:00:00
 action_date: 2017-02-10T00:00:00
 action: Approved
 resolution: |
     THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
     
-The education committee is hereby dissolved.
-vote_record: |
-    JSK: Aye (motions)
-    MW: Aye (seconds)
-    KP: Aye
-    RT: Aye
-    MB: Aye
+    The education committee is hereby dissolved.
+motion: voice
+vote_record:
+    - name: JSK
+      proposer: yes
+      vote: 1
+    - name: MW
+      seconded: yes
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MB
+      vote: 1
