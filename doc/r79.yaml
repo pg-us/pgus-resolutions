@@ -1,0 +1,24 @@
+title: Do not support member comments directly on web site
+resolution_date: 2017-02-10T00:00:00
+action_date: 2017-02-10T00:00:00
+action: Approved
+resolution: |
+    THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT:
+    
+    PgUS will not implement the ability for members to comment on the bylaws on
+    the website, per previous resolution, due to a lack of resources and
+    instead provide the ability for members to communicate via a member's forum.
+motion: voice
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: MB
+      seconded: yes
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 1
