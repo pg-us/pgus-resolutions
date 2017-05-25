@@ -1,0 +1,20 @@
+title: All existing board committees relegated to regular committees
+resolution_date: 2017-04-12T00:00:00
+action_date: 2017-04-12T00:00:00
+action: Approved
+resolution: |
+    Move to have all existing board committees relegated to regular committees, removing authority to operate as the Board
+motion: voice
+vote_record:
+    - name: SF
+      proposer: yes
+      vote: 1
+    - name: JC
+      seconded: yes
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1

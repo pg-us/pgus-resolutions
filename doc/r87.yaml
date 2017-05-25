@@ -1,0 +1,36 @@
+title: Chicago PUG as an associated PUG
+resolution_date: 2017-05-12T00:00:00
+action_date: 2017-05-12T00:00:00
+action: Approved
+resolution: |
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+    The United States PostgreSQL resolves that
+    
+    1. Chicago PUG (Chicago, Illinois PostgreSQL User Group) shall become an Associated
+    User Group
+    
+    2. Chicago PUG shall receive donations in accordance with the United States PostgreSQL bylaws.
+    
+    3. United States PostgreSQL shall receive 5% of all donations plus any
+    banking fees, merchant processing fees or corporation fees associated
+    with Chicago PUG.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for Chicago PUG use.
+    
+    5. United States PostgreSQL shall provide professional services such as
+    book keeping, legal services and technological services as requested by
+    Chicago PUG.
+    
+    6. United States PostgreSQL will register a
+    Chicago PUG.
+    
+    7. The authorized contacts of Chicago PUG shall be Henrietta Dombrovskaya (henr33@gmail.com)
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
