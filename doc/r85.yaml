@@ -1,0 +1,41 @@
+title: Designates Stephen Frost as an authorized agent to counter-sign PostgresOpen sponsorship contracts
+resolution_date: 2017-03-20T00:00:00
+action_date: 2017-03-10T00:00:00
+action: Approved
+resolution: |
+    The board hereby designates Stephen Frost as an authorized agent of the
+    United States PostgreSQL Association expressly and solely for the action to
+    counter-sign sponsorship contracts associated with the PostgresOpen
+    Associated Project expressly and solely for the PostgresOpen 2017 event
+    being held in San Francisco September 6th-8th, 2017 that are included in
+    this resolution [attach contracts in appendix].
+    
+    Any contracts that deviate from these included contracts must be approved
+    by an officer of the United States PostgreSQL Association.
+    Once the officer reviews and approves the contract in writing (email is
+    acceptable for this purpose), Stephen Frost is authorized to
+    sign the contract on behalf of the United States PostgreSQL Association.
+motion: email
+vote_record:
+    - name: SF
+      proposer: yes
+      vote: 1
+      date: 2017-03-20
+    - name: MB
+      vote: 1
+      date: 2017-03-20
+    - name: JC
+      vote: 1
+      date: 2017-03-20
+    - name: JK
+      vote: 1
+      date: 2017-03-20
+    - name: DC
+      vote: 1
+      date: 2017-03-20
+    - name: JM
+      vote: 1
+      date: 2017-03-20
+    - name: MW
+      vote: 1
+      date: 2017-03-20
