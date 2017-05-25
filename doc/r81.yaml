@@ -1,0 +1,39 @@
+title: Amend Associated Projects Fund Transfer Destination
+resolution_date: 2017-03-10T00:00:00
+action_date: 2017-03-10T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+
+    1. The corporation wishes to reduce the unecessary requirement of where
+       funds may be transfered when an Associated Project separates from the
+       corporation after a tax attorney had reviewed the related clauses as
+       they were with respect to the impact of the corporation's tax status
+       with Oregon law.
+
+    THE UNITED STATES POSTGRESQL ASSOCIATION RESOLVES THAT
+
+    1. Amend Clause 3.2.2.1 "Request a transfer of funds to another 501c3" to
+       "Request a transfer of funds to another account minus any incurred fees
+       and estimated taxes determined by the corporation accountant."
+
+    2. Amend Clause 4.3.3.1 "Request a transfer of funds to another 501c3" to
+       "Request a transfer of funds to another account minus any incurred feeds
+       and estimated taxes determined by the corporation accountant."
+
+motion: voice
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JM
+      seconded: yes
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: MB
+      vote: 1

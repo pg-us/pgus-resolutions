@@ -1,0 +1,32 @@
+title: Amend primary purpose in bylaws for clarity
+resolution_date: 2017-03-10T00:00:00
+action_date: 2017-03-10T00:00:00
+action: Approved
+resolution: |
+    The following clause in the bylaws:
+
+        Support, educate and promote the creation, development and use of the
+        PostgreSQL Open Source Database software available to the general
+        public without charge;
+
+    shall be reworded to remove ambiguity around what is "without charge" by
+    removing the "without charge" wording:
+
+        Support, educate and promote the creation, development and use of the
+        PostgreSQL Open Source Database software available to the general
+        public;
+
+motion: voice
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: KP
+      seconded: yes
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: RT
+      vote: 0

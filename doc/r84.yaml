@@ -1,0 +1,30 @@
+title: Amend availability of finances with Associated Projects
+resolution_date: 2017-03-10T00:00:00
+action_date: 2017-03-10T00:00:00
+action: Approved
+resolution: |
+    The Associated Project framework currently states:
+
+        An associated project shall be required to have a publicly available
+        governance document and fiscal budget
+
+    This resolution amends this to:
+
+        An associated project shall be required to have a publicly available
+        governance document, and submit a yearly fiscal budget to PgUS
+motion: voice
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JSK
+      seconded: yes
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: KP
+      vote: 1
+    - name: RT
+      vote: 1
+    - name: MB
+      vote: 1
