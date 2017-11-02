@@ -1,0 +1,22 @@
+title: Updates Whatcom PUG liaison
+resolution_date: 2017-07-19T00:00:00
+action_date: 2017-07-19T00:00:00
+action: Pending
+resolution: |
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. The authorized contacts of Whatcom PostgreSQL User Group is now Joshua
+       Drake.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1

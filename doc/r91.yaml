@@ -1,0 +1,29 @@
+title: 2017 Modification of Mission Statement
+resolution_date: 2017-07-19T00:00:00
+action_date: 2017-07-19T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+
+    The United States PostgreSQL Association (PgUS) wishes update the mission
+    statement last modified in Resolution 9 in 2008:
+
+        Continue the support of the PostgreSQL Community Conference Series
+        including West, East and PGDays at OSCON and LWE.
+
+    PgUS resolved that the mission statement will be:
+
+        Increase PostgreSQL adoption through advocacy, user groups, and events.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1

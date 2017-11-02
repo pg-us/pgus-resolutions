@@ -1,0 +1,46 @@
+title: District of Columbia PostgreSQL User Group
+resolution_date: 2017-07-07T00:00:00
+action_date: 2017-07-07T00:00:00
+action: Pending
+resolution: |
+    WHEREAS
+    
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+    
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. District of Columbia PostgreSQL User Group (DCPUG) shall become an
+       Associated User Group.
+    
+    2. District of Columbia PUG shall receive donations in accordance with the
+       United States PostgreSQL Association bylaws.
+    
+    3. United States PostgreSQL Association shall receive 5% of all donations
+       plus any banking fees, merchant processing fees or corporation fees
+       associated with District of Columbia PUG.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for District of
+       Columbia PUG use.
+    
+    5. United States PostgreSQL Association shall provide professional services
+       such as bookkeeping, legal services and technological services as
+       requested by District of Columbia PUG.
+    
+    6. United States PostgreSQL Association will register a Doing Business As
+       (DBA) name of District of Columbia PostgreSQL User Group.
+
+    7. The authorized contacts of District of Columbia PUG shall be Brad
+       Sneade.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+      proposer: yes
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MW
+      vote: 1

@@ -1,0 +1,36 @@
+title: Revoke lifetime memberships
+resolution_date: 2016-06-12T00:00:00
+action_date: 2016-06-12T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+    United States PostgreSQL Association (PgUS) wishes to properly address the
+    free lifetime memberships that were in place now that the corporation can
+    process memberships.
+    
+    Resolution 29 granting individuals membership to PGUS was passed at a time
+    whereas the corporation had no members.
+    
+    The United States PostgreSQL Association resolves that:
+    
+    1. Resolution 29 is hereby revoked, with the understanding that members who
+       were granted lifetime membership under resolution 29 prior to June 1,
+       2017, are “grandfathered” in and retain their lifetime member status,
+       provided that they annually reconfirm their interest in retaining
+       membership.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MW
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: JK

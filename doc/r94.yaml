@@ -1,0 +1,45 @@
+title: San Francisco PostgreSQL User Group
+resolution_date: 2017-09-18T00:00:00
+action_date: 2017-09-18T21:00:00
+action: Approved
+resolution: |
+    WHEREAS
+
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. San Francisco PostgreSQL User Group (SFPUG) shall become an
+       Associated User Group.
+    
+    2. San Francisco PostgreSQL User Group shall receive donations in
+       accordance with the United States PostgreSQL Association bylaws.
+    
+    3. United States PostgreSQL Association shall receive 5% of all donations
+       plus any banking fees, merchant processing fees or corporation fees
+       associated with San Francisco PostgreSQL User Group.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for San Francisco
+       PostgreSQL User Group use.
+    
+    5. United States PostgreSQL Association shall provide professional services
+       such as bookkeeping, legal services and technological services as
+       requested by San Francisco PostgreSQL User Group.
+    
+    6. United States PostgreSQL Association will register a Doing Business As
+       (DBA) name of San Francisco PostgreSQL User Group.
+    
+    7. The authorized contacts of San Francisco PostgreSQL User Group shall be
+       Christophe Pettus.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: JC
+      proxy: SF
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
