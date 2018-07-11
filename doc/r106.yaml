@@ -1,0 +1,29 @@
+title: Associated Projects Committee
+resolution_date: 2018-06-13T00:00:00
+action_date: 2018-06-13T00:00:00
+action: Approved
+resolution: |
+    WHEREAS, the Board of Directors of United States PostgreSQL Association
+    (the “Corporation”) creates the Associated Projects Committee.
+
+    WHEREAS, Article 3.9 of the Corporation’s Bylaws provide that the Board may
+    create one or more committees of the Board and appoint members of the board
+    to serve on them or designate the method of selecting committee members.
+    
+    The United States PostgreSQL Association resolves that:
+    
+    1. The Associated Projects Committee be formed to oversee all Associated
+       Project related committees of the Corporation.
+motion: email
+vote_record:
+    - name: MW
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: SF
+      proposer: yes
+      vote: 1
+    - name: DC
+      vote: 1

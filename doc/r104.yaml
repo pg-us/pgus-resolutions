@@ -1,0 +1,53 @@
+title: Toronto PostgreSQL Users Group
+resolution_date: 2018-04-07T00:00:00
+action_date: 2018-07-11T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. Toronto PostgreSQL User Group shall become an Associated User Group.
+    
+    2. Toronto PUG shall receive donations in accordance with the
+       United States PostgreSQL Association bylaws.
+    
+    3. PgUS shall receive 5% of all donations plus any banking fees, merchant
+       processing fees or corporation fees associated with Toronto PUG.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for Toronto PUG use.
+    
+    5. PgUS shall provide professional services such as bookkeeping, legal
+       services and technological services as requested by Toronto PUG.
+    
+    6. PgUS will register a Doing Business As (DBA) name of Toronto PostgreSQL
+       User Group.
+    
+    7. The authorized contacts of Toronto PUG shall be Brad Nicholson,
+       Chris Browne, Steve Singer, Dave Cramer, and Faisal Akber.
+motion: email
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+      date: 2018-04-06
+    - name: MB
+      vote: 1
+      date: 2018-04-06
+    - name: JC
+      vote: 1
+      date: 2018-04-06
+    - name: JSK
+      vote: 1
+      date: 2018-04-05
+    - name: SF
+      vote: 1
+      date: 2018-04-06
+    - name: DC
+      vote: 1
+      date: 2018-04-11
+    - name: JM
+      vote: 1
+      date: 2018-04-11

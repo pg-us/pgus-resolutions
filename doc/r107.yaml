@@ -1,0 +1,31 @@
+title: PostgresOpen Committee
+resolution_date: 2016-10-27T00:00:00
+action_date: 2016-10-27T00:00:00
+action: Approved
+resolution: |
+    WHEREAS, the Board of Directors of United States PostgreSQL Association
+    (the “Corporation”) creates the Associated Projects Committee.
+
+    WHEREAS, Article 3.10 Other Committees. The Board may create one or more
+    other committees.  Members of these committees need not be members of the
+    Board, but at least one Director must serve on each such committee. These
+    committees will have no power to act on behalf of, or to exercise the authority
+    of, the Board, but may make recommendations to the Board.
+    
+    The United States PostgreSQL Association resolves that:
+    
+    1. The PostgresOpen Committee be formed to manage the PostgresOpen
+       Conference.
+motion: email
+vote_record:
+    - name: MW
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: SF
+      proposer: yes
+      vote: 1
+    - name: DC
+      vote: 1

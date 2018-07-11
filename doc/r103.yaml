@@ -1,0 +1,47 @@
+title: Appointing User Group Committee Members
+resolution_date: 2018-04-04T00:00:00
+action_date: 2018-04-11T00:00:00
+action: Approved
+resolution: |
+
+    WHEREAS, the Board of Directors of United States PostgreSQL Association
+    (the “Corporation”) appoints the initial members to the User Group
+    Committee.
+
+    WHEREAS, Article 3.9 of the Corporation’s Bylaws provide that the Board may
+    create one or more committees of the Board and appoint members of the board
+    to serve on them or designate the method of selecting committee members.
+
+    WHEREAS, Article 3.10 of the Corporation’s Bylaws provide that members of
+    these committees need not be members of the Board, but at least one
+    Director must serve on each such committee.
+
+	NOW, THEREFORE, IT IS HEREBY:
+
+    RESOLVED, that Stephen Frost, Umair Shahid, and Dave Cramer be appointed to
+    the user group committee.
+
+motion: email
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+      date: 2018-04-05
+    - name: MB
+      vote: 1
+      date: 2018-04-04
+    - name: JC
+      vote: 1
+      date: 2018-04-05
+    - name: JSK
+      vote: 1
+      date: 2018-04-05
+    - name: SF
+      vote: 1
+      date: 2018-04-05
+    - name: DC
+      vote: 1
+      date: 2018-04-10
+    - name: JM
+      vote: 1
+      date: 2018-04-11

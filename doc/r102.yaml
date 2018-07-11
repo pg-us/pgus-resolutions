@@ -1,0 +1,44 @@
+title: Columbus PostgreSQL User Group
+resolution_date: 2018-02-14T00:00:00
+action_date: 2018-02-14T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+    
+    The United States PostgreSQL Association RESOLVES that
+
+    1. The Columbus PostgreSQL User Group (pgCMH) shall become an Associated
+       User Group
+    
+    2. pgCMH shall receive donations in accordance with the United States
+       PostgreSQL Association bylaws.
+    
+    3. The United States PostgreSQL Association shall receive 5% of all
+       donations plus any banking fees, merchant processing fees or corporation
+       fees associated with pgCMH.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for pgCMH use.
+    
+    5. The United States PostgreSQL Association shall provide professional
+       services such as book keeping, legal services and technological services
+       as requested by pgCMH.
+    
+    6. The authorized contacts of pgCMH shall be Douglas Hunley.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: JK
+      vote: 1
+    - name: JK
+      vote: 0
+    - name: MW
+      vote: 1

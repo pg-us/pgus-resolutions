@@ -1,0 +1,38 @@
+title: Remove 5% fee from all User Groups
+resolution_date: 2018-05-16T00:00:00
+action_date: 2018-05-22T00:00:00
+action: Pending
+resolution: |
+    WHEREAS
+
+    1. The Corporation wishes to remove potential contradiction of "restricted
+       funds".
+
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. PgUS will no longer receive any percentage or amount of donations given
+       to a User Group without expressed permission.
+motion: email
+vote_record:
+    - name: MW
+      proposer: yes
+      vote: 1
+      date: 2018-05-18
+    - name: MB
+      vote: 1
+      date: 2018-05-17
+    - name: JC
+      vote: 1
+      date: 2018-05-17
+    - name: JSK
+      vote: 1
+      date: 2018-05-17
+    - name: SF
+      vote: 1
+      date: 2018-05-06
+    - name: DC
+      vote: 1
+      date: 2018-05-22
+    - name: JM
+      vote: 1
+      date: 2018-05-22

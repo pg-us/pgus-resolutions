@@ -1,0 +1,42 @@
+title: Boston PostgreSQL User Group
+resolution_date: 2018-02-14T00:00:00
+action_date: 2018-02-17T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+    1. The corporation wishes to increase its support to PostgreSQL User groups
+    
+    The United States PostgreSQL Association RESOLVES that
+
+    1. The Boston PostgreSQL User Group (Boston PUG) shall become an Associated
+       User Group
+
+    2. Boston PUG shall receive donations in accordance with the United States
+       PostgreSQL Association bylaws.
+    
+    3. The United States PostgreSQL Association shall receive 5% of all
+       donations plus any banking fees, merchant processing fees or corporation
+       fees associated with Boston PUG.
+    
+    4. Donations beyond the 5% and fees shall be earmarked for Boston PUG use.
+    
+    5. The United States PostgreSQL Association shall provide professional
+       services such as book keeping, legal services and technological services
+       as requested by Boston PUG.
+    
+    6. The authorized contacts of Boston PUG shall be Tom Kincaid.
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: JK
+      vote: 1
+    - name: MW
+      vote: 1

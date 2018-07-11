@@ -1,0 +1,105 @@
+title: Termination of PGConf.US Associated Project
+resolution_date: 2017-12-22T00:00:00
+action_date: 2017-12-22T00:00:00
+action: Approved
+resolution: |
+    WHEREAS
+    
+    1.  The PGConf.US Associated Project invoked the termination clause of the
+        Associated Project Resolution on April 24, 2017 with written notice to
+        the Board of Directors.
+    
+    2.  The PGConf.US Associated Project liaisons requested that all assets and
+        liabilities associated with the PGConf.US Associated Project be
+        transferred from the United States PostgreSQL Association to the
+        non-profit organization PGCentral Foundation Inc., where the assets
+        have been determined to be worth $48,005.85 USD.
+    
+    3.  The use of assets transferred from the United States PostgreSQL
+        Association to PG Central Foundation Inc. will be used directly for the
+        Postgres Conference 2018 that occurs from April 16, 2018 to April 20,
+        2018.
+    
+    4.  The purpose of the use of funds within PG Central Foundation, Inc. for
+        the above mentioned conferences conforms to the United States
+        PostgreSQL Association tax-exempt purposes, to support, educate, and
+        promote the creation, development and use of the PostgreSQL Open Source
+        Database software PostgreSQL; to provide information and education
+        regarding the use of PostgreSQL; and to organize, hold, and conduct
+        meetings, discussion, and forums on the contemporary issues concerning
+        the use of PostgreSQL.
+    
+    5.  The Board of Directors of the United States PostgreSQL Association in
+        conjunction with a representative from PG Central Foundation Inc.
+        discussed the ownership of handling outstanding liabilities, which are:
+    
+        i. $2,500.00 USD in uncollected sponsorship payments from the PGConf.US
+           Associated Project for the PGConf US 2017 event, broken down as:
+    
+           a.  $1,000.00 USD from Goldman Sachs
+    
+           b.  $1,000.00 USD from Rackspace
+    
+           c.  $500.00 USD from Leidos
+    
+        ii. $3,394.46 USD owed for services rendered by Data Egret to the
+            PGConf.US Associated Project
+    
+        iii. $639.88 USD owed for travel expenses to Steve O'Grady to the
+             PGConf.US 2017 conference that was organized by the PGConf.US
+             Association Project
+    
+    The United States PostgreSQL Association RESOLVES that:
+    
+    1.  The United States PostgreSQL Association will enter into a contract
+        with PG Central Inc. that will agree to the following terms:
+    
+        i. PG Central Inc. will accept $2,500.00 USD in liabilities for the
+           uncollected sponsorship payments for the PGConf US 2017 event in
+           PGConf.US Associated Project which has already been deducted from
+           the asset value of $48,005.85 USD.
+    
+        ii. The United States PostgreSQL Association will pay out money owed
+            for services rendered by Data Egret to the PGConf.US Associated
+            Project for a total of $3,394.46 USD.
+    
+        iii. The United States PostgreSQL Association will pay out money owed
+            for travel reimbursement to Steve O'Grady for a total of $639.88
+            USD for travel to the PGConf.US 2017 conference that was organized
+            by the PGConf.US Association Project.
+    
+        iv. PG Central Foundation Inc. will indemnify the United States
+            PostgreSQL Association for any legal issues for any event that was
+            hosted by the PGConf.US Association Project for a time period up
+            until March 31, 2022.  PG Central Foundation Inc. also indemnifies
+            the United States PostgreSQL Association for articles (ii) and
+            (iii) and agrees to bear all additional legal costs after the
+            transfer of funds.
+    
+        v. Legals fees incurred relating to the termination of PGConf.US
+           Associated Project will be deducted from the project's $45,505.85
+           USD per the Associated Project Framework.
+    
+        vi. The United States PostgreSQL Association will transfer the
+            remaining sum minus any transaction fees to the PG Central
+            Foundation Inc. once a contract is in place.
+    
+    2.  The United States PostgreSQL Association terminates the PGConf.US
+        Association Project effective once the contract is in place.
+motion: voice
+vote_record:
+    - name: SF
+      vote: -1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: JK
+      vote: 1
+    - name: JM
+      vote: 0
+    - name: MW
+      proposer: yes
+      vote: 1

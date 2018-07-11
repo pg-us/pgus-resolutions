@@ -1,0 +1,22 @@
+title: Updates PDXPUG liaison
+resolution_date: 2017-12-08T00:00:00
+action_date: 2017-12-08T00:00:00
+action: Approved
+resolution: |
+    The United States PostgreSQL Association (PgUS) resolves that
+    
+    1. Grant Holly will be added as an authorized contact for the Portland
+       PostgreSQL Users Group (PDXPUG).
+motion: voice
+vote_record:
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
