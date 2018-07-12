@@ -3,27 +3,25 @@ resolution_date: 2017-11-01T00:00:00
 action_date: 2017-11-01T21:00:00
 action: Approved
 resolution: |
-
     WHEREAS, the Board of Directors of United States PostgreSQL Association
     (the “Corporation”) deems it advisable and in the best interest of the
     Corporation, its directors, and its members, to amend and restate the
     Corporation’s Bylaws to address and clarify certain matters of governance as
     well as to specifically adopt policies and procedures to formalize the process
     of disclosing and addressing conflicts of interest that may arise;
-
+    
     WHEREAS, Article VI of the Corporation’s Bylaws provide that the Bylaws may
     be amended by a majority vote of the Board of Directors of the Corporation at a
     meeting called for such purpose; and
-
+    
     WHEREAS, the Board of Directors, after consulting with the Corporation’s
     attorneys, deems it appropriate and in the best interest of the Corporation to
     adopt the Amended and Restated Bylaws, attached hereto as Exhibit A.
-
-	NOW, THEREFORE, IT IS HEREBY:
-
+    
+    NOW, THEREFORE, IT IS HEREBY:
+    
     RESOLVED, that the Amended and Restated Bylaws attached hereto as Exhibit A are
     hereby adopted and approved in their entirety, effective as of __________,
     ________.
-
 motion: voice
 vote_record:

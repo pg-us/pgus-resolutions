@@ -65,22 +65,23 @@ while i <= count:
         i = i + 1
         continue
 
-    for vote in resolution["vote_record"]:
-        try:
-            if not "vote" in vote:
-                vote["vote"] = None
+    if resolution["vote_record"]:
+        for vote in resolution["vote_record"]:
+            try:
+                if not "vote" in vote:
+                    vote["vote"] = None
 
-            c.execute("""
-                    INSERT INTO votes (id, name, vote)
-                    VALUES (?, ?, ?);""",
-                    (i, vote["name"], vote["vote"]))
-        except:
-            print "INSERT into vote failed:"
-            print "  id:", i
-            print "  name:", vote["name"]
-            print "  vote:", vote["vote"]
-            print traceback.format_exc()
-            exit(1)
+                c.execute("""
+                        INSERT INTO votes (id, name, vote)
+                        VALUES (?, ?, ?);""",
+                        (i, vote["name"], vote["vote"]))
+            except:
+                print "INSERT into vote failed:"
+                print "  id:", i
+                print "  name:", vote["name"]
+                print "  vote:", vote["vote"]
+                print traceback.format_exc()
+                exit(1)
 
     i = i + 1
 
