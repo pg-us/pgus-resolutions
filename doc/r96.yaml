@@ -21,7 +21,21 @@ resolution: |
     NOW, THEREFORE, IT IS HEREBY:
     
     RESOLVED, that the Amended and Restated Bylaws attached hereto as Exhibit A are
-    hereby adopted and approved in their entirety, effective as of __________,
-    ________.
+    hereby adopted and approved in their entirety, effective as of Nov 2, 2017.
 motion: voice
 vote_record:
+    - name: SF
+      vote: 1
+    - name: DC
+      vote: 1
+    - name: MW
+      proposer: yes
+      vote: 1
+    - name: JM
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: JC
+      vote: 1
+    - name: MB
+      vote: 1
