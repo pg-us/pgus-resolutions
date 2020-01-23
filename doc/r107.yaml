@@ -1,6 +1,6 @@
 title: PostgresOpen Committee
-resolution_date: 2016-10-27T00:00:00
-action_date: 2016-10-27T00:00:00
+resolution_date: 2018-06-13T00:00:00
+action_date: 2018-06-13T00:00:00
 action: Approved
 resolution: |
     WHEREAS, the Board of Directors of United States PostgreSQL Association
@@ -16,7 +16,7 @@ resolution: |
     
     1. The PostgresOpen Committee be formed to manage the PostgresOpen
        Conference.
-motion: email
+motion: voice
 vote_record:
     - name: MW
       vote: 1
@@ -29,3 +29,4 @@ vote_record:
       vote: 1
     - name: DC
       vote: 1
+      seconded: yes

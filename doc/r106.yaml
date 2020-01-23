@@ -14,12 +14,13 @@ resolution: |
     
     1. The Associated Projects Committee be formed to oversee all Associated
        Project related committees of the Corporation.
-motion: email
+motion: voice
 vote_record:
     - name: MW
       vote: 1
     - name: JC
       vote: 1
+      seconded: yes
     - name: JSK
       vote: 1
     - name: SF
