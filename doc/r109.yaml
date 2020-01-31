@@ -1,0 +1,18 @@
+title: Community CoC recommendations
+resolution_date: 2019-06-14T00:00:00
+action_date: 2019-06-14T00:00:00
+action: Approved
+resolution: |
+    PgUS considers itself part of the PostgreSQL Community, and therefore
+    follows the actions of the CoC regarding any actions they take in regard to
+    CoC issues.
+motion: voice
+vote_record:
+    - name: MW
+      vote: 1
+      seconded: yes
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
+      proposer: yes

@@ -1,0 +1,20 @@
+title: Officer Positions
+resolution_date: 2019-12-11T00:00:00
+action_date: 2019-12-11T00:00:00
+action: Approved
+resolution: |
+    Stephen Frost President, Stacey Haysler Vice-President, Mark Wong
+    Treasurer, Michael Brewer Secretary.
+motion: voice
+vote_record:
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: SH
+      vote: 1
+    - name: SF
+      vote: 1
+      proposer: yes
+    - name: MB
+      vote: 1

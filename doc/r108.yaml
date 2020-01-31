@@ -1,0 +1,37 @@
+title: Elections 2019
+resolution_date: 2019-03-13T00:00:00
+action_date: 2019-03-13T00:00:00
+action: Approved
+resolution: |
+    1. The corporation wishes to conduct elections for directors of the United
+       States PostgreSQL Association
+    
+    The United States PostgreSQL Association RESOLVES that
+    
+    1. The board seats of Michael Alan Brewer, Jonathan Katz, Jim Mlodgenski,
+       and Mark Wong will reach the end of their term on April, 30, 2019
+       contingent on the completion of the election on April 15, 2019 
+    2. An election will be held from April 8, 2019 00:00:00 PDT to April 15,
+       2019 23:59:59 PDT for three director seats on the board of directors
+       using the PgUS online election system. The term length for each of these
+       seats will be for two years.
+    3. Any member that is active and registered for the United States
+       PostgreSQL Association as of March 13, 2019 is eligible to run for a
+       board seat.
+    4. Any member that is active and registered for the United States
+       PostgreSQL Association as of March 13, 2019 is eligible to vote in the
+       election.
+    5. Newly elected board members will take their seats on May 1, 2019
+       contingent on the election completing on April 15, 2019
+motion: voice
+vote_record:
+    - name: MW
+      vote: 1
+      proposer: yes
+    - name: JC
+      vote: 1
+      seconded: yes
+    - name: JSK
+      vote: 1
+    - name: MB
+      vote: 1

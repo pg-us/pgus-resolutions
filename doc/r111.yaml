@@ -1,0 +1,18 @@
+title: Add Stacey Haysler as signer to bank accounts
+resolution_date: 2020-01-08T00:00:00
+action_date: 2020-01-08T00:00:00
+action: Approved
+resolution: |
+    Stacey Haysler a signer for the bank.
+motion: voice
+vote_record:
+    - name: MW
+      vote: 1
+    - name: JSK
+      vote: 1
+    - name: SH
+      vote: 1
+    - name: SF
+      vote: 1
+    - name: MB
+      vote: 1
